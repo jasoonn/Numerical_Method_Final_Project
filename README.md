@@ -11,8 +11,6 @@ Set initial angle and spin.
 ```
 ### Demo
 Quick finding approriate intial speed.
-[image](https://imgur.com/u24MSAl)
-<img src="https://imgur.com/u24MSAl">
+<img src="https://github.com/jasoonn/Numerical_Method_Final_Project/blob/master/image/quick_finding.gif">
 Simulation under random error.
-[image](https://imgur.com/MP4RHKC)
-<img src="https://imgur.com/MP4RHKC">
+<img src="https://github.com/jasoonn/Numerical_Method_Final_Project/blob/master/image/simulation.gif">
