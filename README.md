@@ -9,12 +9,8 @@ Set initial angle and spin.
 -> Simulate user-defined times of shooting with random error.
 ->Output the result.
 ```
-### Demo
-Quick finding approriate intial speed.
-```Begin```
+# Demo
+### Quick finding approriate intial speed.
 <img src="https://github.com/jasoonn/Numerical_Method_Final_Project/blob/master/image/quick_finding.gif">
-```End```
-Simulation under random error.
-```Begin```
+### Simulation under random error.
 <img src="https://github.com/jasoonn/Numerical_Method_Final_Project/blob/master/image/simulation.gif">
-```End```
